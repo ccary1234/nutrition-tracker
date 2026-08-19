@@ -1,16 +1,7 @@
 """
 Pulls daily nutrition totals from MyFitnessPal and appends them to
-data/nutrition.json. Designed to run in GitHub Actions on a daily cron.
-
-Auth: expects the MFP_COOKIES environment variable to contain the JSON
-produced by export_cookies.py (stored as a GitHub Actions secret).
-
-Behavior:
-- First run backfills the last BACKFILL_DAYS days.
-- Later runs only fetch days newer than what's already in the JSON,
-  so each run is fast and API-light.
-- Days with no diary entries are recorded with null values so the
-  chart can show gaps honestly instead of fabricating zeros.
+data/nutrition.json. Runs in GitHub Actions on a daily cron.
+Auth comes from the MFP_COOKIES secret (see export_cookies.py).
 """
 
 from __future__ import annotations
@@ -23,14 +14,37 @@ import time
 from http.cookiejar import Cookie, CookieJar
 from pathlib import Path
 
-import myfitnesspal
+import requests
+
+# --- Disguise as a real browser (MFP 403s obvious scripts) ---
+_BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/127.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.myfitnesspal.com/",
+}
+_orig_session_init = requests.Session.__init__
+
+
+def _patched_session_init(self, *args, **kwargs):
+    _orig_session_init(self, *args, **kwargs)
+    self.headers.update(_BROWSER_HEADERS)
+
+
+requests.Session.__init__ = _patched_session_init
+# --------------------------------------------------------------
+
+import myfitnesspal  # noqa: E402  (import after the patch, on purpose)
 
 DATA_PATH = Path("data/nutrition.json")
-BACKFILL_DAYS = 60          # how far back the very first run reaches
-MAX_DAYS_PER_RUN = 90       # safety cap so a stalled repo can't trigger a huge crawl
-REQUEST_PAUSE_SECONDS = 1.0 # be polite to MFP's servers
+BACKFILL_DAYS = 60
+MAX_DAYS_PER_RUN = 90
+REQUEST_PAUSE_SECONDS = 1.0
 
-# MFP field name -> our short key
 FIELDS = {
     "calories": "calories",
     "protein": "protein",
