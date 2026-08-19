@@ -1,46 +1,20 @@
 """
-Pulls daily nutrition totals from MyFitnessPal and appends them to
-data/nutrition.json. Runs in GitHub Actions on a daily cron.
-Auth comes from the MFP_COOKIES secret (see export_cookies.py).
+Pulls daily nutrition totals from MyFitnessPal into data/nutrition.json.
+Runs locally on a Mac; reads MFP session cookies straight from Chrome.
 """
 
 from __future__ import annotations
 
 import datetime as dt
 import json
-import os
 import sys
 import time
-from http.cookiejar import Cookie, CookieJar
 from pathlib import Path
 
-import requests
+import browser_cookie3
+import myfitnesspal
 
-# --- Disguise as a real browser (MFP 403s obvious scripts) ---
-_BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/127.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Referer": "https://www.myfitnesspal.com/",
-}
-_orig_session_init = requests.Session.__init__
-
-
-def _patched_session_init(self, *args, **kwargs):
-    _orig_session_init(self, *args, **kwargs)
-    self.headers.update(_BROWSER_HEADERS)
-
-
-requests.Session.__init__ = _patched_session_init
-# --------------------------------------------------------------
-
-import myfitnesspal  # noqa: E402  (import after the patch, on purpose)
-
-DATA_PATH = Path("data/nutrition.json")
+DATA_PATH = Path(__file__).parent / "data" / "nutrition.json"
 BACKFILL_DAYS = 60
 MAX_DAYS_PER_RUN = 90
 REQUEST_PAUSE_SECONDS = 1.0
@@ -51,33 +25,6 @@ FIELDS = {
     "carbohydrates": "carbs",
     "fat": "fat",
 }
-
-
-def build_cookiejar(raw_json: str) -> CookieJar:
-    jar = CookieJar()
-    for c in json.loads(raw_json):
-        domain = c.get("domain", ".myfitnesspal.com")
-        jar.set_cookie(
-            Cookie(
-                version=0,
-                name=c["name"],
-                value=c["value"],
-                port=None,
-                port_specified=False,
-                domain=domain,
-                domain_specified=True,
-                domain_initial_dot=domain.startswith("."),
-                path=c.get("path", "/"),
-                path_specified=True,
-                secure=bool(c.get("secure", True)),
-                expires=None,
-                discard=False,
-                comment=None,
-                comment_url=None,
-                rest={},
-            )
-        )
-    return jar
 
 
 def load_existing() -> list[dict]:
@@ -113,12 +60,14 @@ def fetch_day(client: myfitnesspal.Client, day: dt.date) -> dict:
 
 
 def main() -> int:
-    raw_cookies = os.environ.get("MFP_COOKIES", "").strip()
-    if not raw_cookies:
-        print("ERROR: MFP_COOKIES env var is empty. Add it as a repo secret.")
+    try:
+        jar = browser_cookie3.chrome(domain_name="myfitnesspal.com")
+    except Exception as exc:
+        print(f"ERROR: couldn't read Chrome cookies: {exc}")
+        print("Open Chrome, confirm you're logged in to myfitnesspal.com, retry.")
         return 1
 
-    client = myfitnesspal.Client(cookiejar=build_cookiejar(raw_cookies))
+    client = myfitnesspal.Client(cookiejar=jar)
 
     existing = load_existing()
     days = dates_to_fetch(existing)
@@ -132,11 +81,7 @@ def main() -> int:
         try:
             entry = fetch_day(client, day)
         except myfitnesspal.exceptions.MyfitnesspalLoginError:
-            print(
-                "ERROR: MyFitnessPal rejected the session cookies. They have "
-                "likely expired (~30 days). Re-run export_cookies.py locally "
-                "and update the MFP_COOKIES secret."
-            )
+            print("ERROR: MFP rejected the session. Log in to myfitnesspal.com in Chrome and rerun.")
             return 1
         fetched.append(entry)
         logged = entry.get("calories")
