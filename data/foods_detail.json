@@ -11559,5 +11559,82 @@
   "protein": 0.0,
   "carbs": 0.0,
   "fat": 0.0
+ },
+ {
+  "date": "2026-08-20",
+  "meal": "Breakfast",
+  "name": "Morning\u00a0\u00a0Smoothie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 327.3,
+  "protein": 37.8,
+  "carbs": 32.1,
+  "fat": 6.1
+ },
+ {
+  "date": "2026-08-20",
+  "meal": "Breakfast",
+  "name": "Raw Brazil Nut - Brazil Nut",
+  "brand": "Raw Brazil Nut",
+  "servings": 1.0,
+  "calories": 33.0,
+  "protein": 0.7,
+  "carbs": 0.6,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-08-20",
+  "meal": "Breakfast",
+  "name": "Chomps - Beef Stick",
+  "brand": "Chomps",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 4.5,
+  "carbs": 0.0,
+  "fat": 3.0
+ },
+ {
+  "date": "2026-08-20",
+  "meal": "Lunch",
+  "name": "Extreme Pita - Chicken Shawarma Pita, Regular",
+  "brand": "Extreme Pita",
+  "servings": 1.0,
+  "calories": 580.0,
+  "protein": 41.0,
+  "carbs": 50.0,
+  "fat": 24.0
+ },
+ {
+  "date": "2026-08-20",
+  "meal": "Dinner",
+  "name": "Turkey breast - Smoked",
+  "brand": "Turkey breast",
+  "servings": 4.0,
+  "calories": 200.0,
+  "protein": 36.0,
+  "carbs": 4.0,
+  "fat": 4.0
+ },
+ {
+  "date": "2026-08-20",
+  "meal": "Dinner",
+  "name": "French fries",
+  "brand": "Generic",
+  "servings": 0.666700005531311,
+  "calories": 127.5,
+  "protein": 1.4,
+  "carbs": 13.1,
+  "fat": 8.0
+ },
+ {
+  "date": "2026-08-20",
+  "meal": "Dinner",
+  "name": "Green beans",
+  "brand": "Generic",
+  "servings": 0.5,
+  "calories": 15.5,
+  "protein": 0.9,
+  "carbs": 3.5,
+  "fat": 0.1
  }
 ]
