@@ -11636,5 +11636,93 @@
   "protein": 0.9,
   "carbs": 3.5,
   "fat": 0.1
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Breakfast",
+  "name": "Raw Brazil Nut - Brazil Nut",
+  "brand": "Raw Brazil Nut",
+  "servings": 1.0,
+  "calories": 33.0,
+  "protein": 0.7,
+  "carbs": 0.6,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Breakfast",
+  "name": "Morning\u00a0\u00a0Smoothie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 327.3,
+  "protein": 37.8,
+  "carbs": 32.1,
+  "fat": 6.1
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Breakfast",
+  "name": "Potbelly - Mama's Meatball, BIGS",
+  "brand": "Potbelly",
+  "servings": 1.0,
+  "calories": 1290.0,
+  "protein": 62.0,
+  "carbs": 110.0,
+  "fat": 65.0
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Breakfast",
+  "name": "Zespri - Golden Kiwifruit",
+  "brand": "Zespri",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 1.0,
+  "carbs": 13.0,
+  "fat": 0.5
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Breakfast",
+  "name": "Watermelon",
+  "brand": "Generic",
+  "servings": 0.25,
+  "calories": 11.6,
+  "protein": 0.2,
+  "carbs": 2.9,
+  "fat": 0.1
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Dinner",
+  "name": "Umd - Fried Chicken Strips",
+  "brand": "Umd",
+  "servings": 1.25,
+  "calories": 432.5,
+  "protein": 24.9,
+  "carbs": 24.9,
+  "fat": 26.0
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Dinner",
+  "name": "French fries",
+  "brand": "Generic",
+  "servings": 0.5,
+  "calories": 95.6,
+  "protein": 1.1,
+  "carbs": 9.9,
+  "fat": 6.0
+ },
+ {
+  "date": "2026-08-21",
+  "meal": "Snacks",
+  "name": "Aloha - Organic Oatmeal Chocolate Chip Protein Bar",
+  "brand": "Aloha",
+  "servings": 1.0,
+  "calories": 220.0,
+  "protein": 14.0,
+  "carbs": 27.0,
+  "fat": 8.0
  }
 ]
