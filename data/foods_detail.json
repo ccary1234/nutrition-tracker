@@ -11724,5 +11724,137 @@
   "protein": 14.0,
   "carbs": 27.0,
   "fat": 8.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Breakfast",
+  "name": "Scrambled egg",
+  "brand": "Generic",
+  "servings": 5.0,
+  "calories": 454.4,
+  "protein": 30.5,
+  "carbs": 4.9,
+  "fat": 33.5
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Breakfast",
+  "name": "Specially Selected - Sicilian Extra Virgin Olive Oil",
+  "brand": "Specially Selected",
+  "servings": 1.0,
+  "calories": 120.0,
+  "protein": 0.0,
+  "carbs": 0.0,
+  "fat": 14.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Breakfast",
+  "name": "Grass Fed Ground Beef",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 157.3,
+  "protein": 23.8,
+  "carbs": 0.0,
+  "fat": 7.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Breakfast",
+  "name": "Tasteful Selections Honey Gold Potatoes - Tiny Potatoes",
+  "brand": "Tasteful Selections Honey Gold Potatoes",
+  "servings": 0.666700005531311,
+  "calories": 53.3,
+  "protein": 2.0,
+  "carbs": 11.3,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Breakfast",
+  "name": "Chomps - Beef Stick",
+  "brand": "Chomps",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 4.5,
+  "carbs": 0.0,
+  "fat": 3.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Breakfast",
+  "name": "Zespri - Golden Kiwifruit",
+  "brand": "Zespri",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 1.0,
+  "carbs": 13.0,
+  "fat": 0.5
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Dinner",
+  "name": "Filet mignon, cooked",
+  "brand": "Generic",
+  "servings": 1.25,
+  "calories": 308.6,
+  "protein": 44.6,
+  "carbs": 0.0,
+  "fat": 13.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Dinner",
+  "name": "Fresh Cooked - Asparagus",
+  "brand": "Fresh Cooked",
+  "servings": 1.0,
+  "calories": 25.0,
+  "protein": 2.0,
+  "carbs": 4.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Dinner",
+  "name": "Bertucci's - Kid's Rigatoni With Tomato Sauce",
+  "brand": "Bertucci's",
+  "servings": 0.5,
+  "calories": 260.0,
+  "protein": 19.0,
+  "carbs": 35.5,
+  "fat": 4.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Snacks",
+  "name": "Chobani - Mixed Berry Vanilla Greek Yogurt Protein Drink",
+  "brand": "Chobani",
+  "servings": 1.0,
+  "calories": 170.0,
+  "protein": 20.0,
+  "carbs": 14.0,
+  "fat": 3.0
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Snacks",
+  "name": "Green Grapes",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 67.6,
+  "protein": 0.7,
+  "carbs": 17.7,
+  "fat": 0.2
+ },
+ {
+  "date": "2026-08-22",
+  "meal": "Snacks",
+  "name": "Blueberry  muffin - Muffin",
+  "brand": "Blueberry  muffin",
+  "servings": 1.0,
+  "calories": 200.0,
+  "protein": 2.0,
+  "carbs": 28.0,
+  "fat": 8.0
  }
 ]
