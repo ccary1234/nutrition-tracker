@@ -12197,5 +12197,115 @@
   "protein": 20.0,
   "carbs": 14.0,
   "fat": 3.0
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Breakfast",
+  "name": "Scrambled egg",
+  "brand": "Generic",
+  "servings": 5.0,
+  "calories": 454.4,
+  "protein": 30.5,
+  "carbs": 4.9,
+  "fat": 33.5
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Breakfast",
+  "name": "Specially Selected - Sicilian Extra Virgin Olive Oil",
+  "brand": "Specially Selected",
+  "servings": 1.0,
+  "calories": 120.0,
+  "protein": 0.0,
+  "carbs": 0.0,
+  "fat": 14.0
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Breakfast",
+  "name": "Grass Fed Ground Beef",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 157.3,
+  "protein": 23.8,
+  "carbs": 0.0,
+  "fat": 7.0
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Breakfast",
+  "name": "Raw Brazil Nut - Brazil Nut",
+  "brand": "Raw Brazil Nut",
+  "servings": 1.0,
+  "calories": 33.0,
+  "protein": 0.7,
+  "carbs": 0.6,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Breakfast",
+  "name": "Raspberries - Fresh Fruits - Raspberries, Raw",
+  "brand": "Raspberries - Fresh Fruits",
+  "servings": 1.0,
+  "calories": 10.0,
+  "protein": 0.2,
+  "carbs": 1.0,
+  "fat": 0.1
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Lunch",
+  "name": "Zespri - Golden Kiwifruit",
+  "brand": "Zespri",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 1.0,
+  "carbs": 13.0,
+  "fat": 0.5
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Lunch",
+  "name": "Black Forest - Gummy Bears",
+  "brand": "Black Forest",
+  "servings": 2.0,
+  "calories": 200.0,
+  "protein": 2.0,
+  "carbs": 46.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Dinner",
+  "name": "Beef\u00a0Bolognese - Beef\u00a0Bolognese",
+  "brand": "Beef\u00a0Bolognese",
+  "servings": 1.333299994468689,
+  "calories": 426.7,
+  "protein": 42.7,
+  "carbs": 33.3,
+  "fat": 14.7
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Snacks",
+  "name": "Archer - 100%\u00a0Grass-fed\u00a0Beef\u00a0Stick,\u00a0Sweet\u00a0BBQ",
+  "brand": "Archer",
+  "servings": 1.0,
+  "calories": 80.0,
+  "protein": 9.0,
+  "carbs": 2.0,
+  "fat": 4.5
+ },
+ {
+  "date": "2026-08-25",
+  "meal": "Snacks",
+  "name": "Chobani - Mixed Berry Vanilla Greek Yogurt Protein Drink",
+  "brand": "Chobani",
+  "servings": 1.0,
+  "calories": 170.0,
+  "protein": 20.0,
+  "carbs": 14.0,
+  "fat": 3.0
  }
 ]
