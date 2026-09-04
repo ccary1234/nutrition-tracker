@@ -30,9 +30,37 @@ PAUSE_SECONDS = 0.6
 RENAME = {"energy": "calories", "carbohydrates": "carbs"}
 
 
+CHROME_DIR = Path.home() / "Library" / "Application Support" / "Google" / "Chrome"
+SESSION_COOKIE = "__Secure-next-auth.session-token"
+
+
 def chrome_cookies() -> dict:
-    jar = browser_cookie3.chrome(domain_name="myfitnesspal.com")
-    return {c.name: c.value for c in jar}
+    """Scan every Chrome profile and return the cookies from the one that is
+    actually logged in to MFP (falls back to whichever has the most cookies)."""
+    candidates = []
+    for prof in sorted(CHROME_DIR.glob("*")):
+        if prof.name == "System Profile":
+            continue
+        for ck in (prof / "Cookies", prof / "Network" / "Cookies"):
+            if not ck.exists():
+                continue
+            try:
+                jar = browser_cookie3.chrome(cookie_file=str(ck),
+                                             domain_name="myfitnesspal.com")
+                cookies = {c.name: c.value for c in jar}
+            except Exception as exc:  # noqa: BLE001
+                print(f"  (skipping {prof.name}: {exc})")
+                continue
+            if cookies:
+                candidates.append((prof.name, cookies))
+            break
+    if not candidates:
+        return {}
+    logged_in = [c for c in candidates if SESSION_COOKIE in c[1]]
+    name, cookies = (logged_in or sorted(candidates, key=lambda c: -len(c[1])))[0]
+    print(f"Using Chrome profile '{name}' ({len(cookies)} MFP cookies"
+          f"{'' if SESSION_COOKIE in cookies else ', NO session token - may not be logged in'})")
+    return cookies
 
 
 def get_token(sess):
