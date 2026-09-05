@@ -13297,5 +13297,137 @@
   "protein": 2.0,
   "carbs": 48.0,
   "fat": 6.0
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Breakfast",
+  "name": "Barebells - Peanut Butter & Jelly Protein Bar",
+  "brand": "Barebells",
+  "servings": 1.0,
+  "calories": 200.0,
+  "protein": 20.0,
+  "carbs": 21.0,
+  "fat": 6.0
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Breakfast",
+  "name": "Dates",
+  "brand": "Generic",
+  "servings": 3.0,
+  "calories": 67.7,
+  "protein": 0.6,
+  "carbs": 18.0,
+  "fat": 0.1
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Lunch",
+  "name": "Extreme Pita - Chicken Shawarma Pita, Regular",
+  "brand": "Extreme Pita",
+  "servings": 1.0,
+  "calories": 580.0,
+  "protein": 41.0,
+  "carbs": 50.0,
+  "fat": 24.0
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Lunch",
+  "name": "Eggs, boiled",
+  "brand": "Generic",
+  "servings": 3.0,
+  "calories": 214.5,
+  "protein": 18.8,
+  "carbs": 1.1,
+  "fat": 14.3
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Lunch",
+  "name": "Specially Selected - Sicilian Extra Virgin Olive Oil",
+  "brand": "Specially Selected",
+  "servings": 1.0,
+  "calories": 120.0,
+  "protein": 0.0,
+  "carbs": 0.0,
+  "fat": 14.0
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Lunch",
+  "name": "Sourdough Bread",
+  "brand": "Generic",
+  "servings": 1.25,
+  "calories": 137.2,
+  "protein": 3.8,
+  "carbs": 28.7,
+  "fat": 0.6
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Dinner",
+  "name": "Grass Fed Ground Beef",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 314.6,
+  "protein": 47.5,
+  "carbs": 0.0,
+  "fat": 13.9
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Dinner",
+  "name": "The\u00a0little\u00a0potato\u00a0\u00a0company - Tiny\u00a0potatoes",
+  "brand": "The\u00a0little\u00a0potato\u00a0\u00a0company",
+  "servings": 2.0,
+  "calories": 140.0,
+  "protein": 4.0,
+  "carbs": 32.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Dinner",
+  "name": "Brussels Sprouts",
+  "brand": "Generic",
+  "servings": 1.25,
+  "calories": 75.6,
+  "protein": 5.4,
+  "carbs": 14.9,
+  "fat": 1.1
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Dinner",
+  "name": "Black Forest - Gummy Bears",
+  "brand": "Black Forest",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 0.5,
+  "carbs": 11.5,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Snacks",
+  "name": "Chomps - Beef Stick",
+  "brand": "Chomps",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 4.5,
+  "carbs": 0.0,
+  "fat": 3.0
+ },
+ {
+  "date": "2026-09-04",
+  "meal": "Snacks",
+  "name": "Chocolate Chip Cookie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 147.6,
+  "protein": 1.5,
+  "carbs": 19.6,
+  "fat": 7.4
  }
 ]
