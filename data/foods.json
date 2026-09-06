@@ -1,7 +1,7 @@
 {
  "window_start": "2026-05-03",
- "window_end": "2026-09-04",
- "total_calories": 282685,
+ "window_end": "2026-09-05",
+ "total_calories": 284864,
  "foods": [
   {
    "name": "Scrambled egg",
@@ -9,7 +9,7 @@
    "calories": 23403,
    "protein": 1571,
    "times_logged": 57,
-   "pct_of_calories": 8.28
+   "pct_of_calories": 8.22
   },
   {
    "name": "Morning\u00a0\u00a0Smoothie",
@@ -17,7 +17,7 @@
    "calories": 15158,
    "protein": 1763,
    "times_logged": 47,
-   "pct_of_calories": 5.36
+   "pct_of_calories": 5.32
   },
   {
    "name": "Grass Fed Ground Beef",
@@ -25,7 +25,7 @@
    "calories": 9655,
    "protein": 1459,
    "times_logged": 57,
-   "pct_of_calories": 3.42
+   "pct_of_calories": 3.39
   },
   {
    "name": "Meat Pie - Beef Meat Pie",
@@ -33,7 +33,7 @@
    "calories": 6020,
    "protein": 154,
    "times_logged": 12,
-   "pct_of_calories": 2.13
+   "pct_of_calories": 2.11
   },
   {
    "name": "Dewey's 17\" Pepperoni Pizza - Dewey's 17\" Pepperoni Pizza",
@@ -41,15 +41,15 @@
    "calories": 5940,
    "protein": 264,
    "times_logged": 8,
-   "pct_of_calories": 2.1
+   "pct_of_calories": 2.09
   },
   {
    "name": "Hamburger - Hamburger",
    "brand": "Hamburger",
-   "calories": 5550,
-   "protein": 388,
-   "times_logged": 10,
-   "pct_of_calories": 1.96
+   "calories": 5812,
+   "protein": 407,
+   "times_logged": 11,
+   "pct_of_calories": 2.04
   },
   {
    "name": "imos - 16\" thin crust pepperoni pizza",
@@ -57,7 +57,7 @@
    "calories": 5411,
    "protein": 208,
    "times_logged": 4,
-   "pct_of_calories": 1.91
+   "pct_of_calories": 1.9
   },
   {
    "name": "Pork Steak",
@@ -65,7 +65,7 @@
    "calories": 5034,
    "protein": 497,
    "times_logged": 8,
-   "pct_of_calories": 1.78
+   "pct_of_calories": 1.77
   },
   {
    "name": "French fries",
@@ -73,7 +73,7 @@
    "calories": 3920,
    "protein": 44,
    "times_logged": 25,
-   "pct_of_calories": 1.39
+   "pct_of_calories": 1.38
   },
   {
    "name": "Dewey's Pizza - Dewey's Original Pizza, 17 inch",
@@ -81,7 +81,15 @@
    "calories": 3680,
    "protein": 176,
    "times_logged": 7,
-   "pct_of_calories": 1.3
+   "pct_of_calories": 1.29
+  },
+  {
+   "name": "Black Forest - Gummy Bears",
+   "brand": "Black Forest",
+   "calories": 3650,
+   "protein": 36,
+   "times_logged": 26,
+   "pct_of_calories": 1.28
   },
   {
    "name": "Filet mignon, cooked",
@@ -89,14 +97,6 @@
    "calories": 3631,
    "protein": 525,
    "times_logged": 11,
-   "pct_of_calories": 1.28
-  },
-  {
-   "name": "Black Forest - Gummy Bears",
-   "brand": "Black Forest",
-   "calories": 3600,
-   "protein": 36,
-   "times_logged": 25,
    "pct_of_calories": 1.27
   },
   {
@@ -105,7 +105,7 @@
    "calories": 3575,
    "protein": 155,
    "times_logged": 10,
-   "pct_of_calories": 1.26
+   "pct_of_calories": 1.25
   },
   {
    "name": "Homemade - Gluten Free Fried Chicken Thigh",
@@ -113,7 +113,7 @@
    "calories": 3402,
    "protein": 272,
    "times_logged": 8,
-   "pct_of_calories": 1.2
+   "pct_of_calories": 1.19
   },
   {
    "name": "Cousin's Subs - Meatball & Provolone Sub",
@@ -121,7 +121,7 @@
    "calories": 3360,
    "protein": 180,
    "times_logged": 4,
-   "pct_of_calories": 1.19
+   "pct_of_calories": 1.18
   },
   {
    "name": "Extreme Pita - Chicken Shawarma Pita, Regular",
@@ -129,7 +129,7 @@
    "calories": 2900,
    "protein": 205,
    "times_logged": 5,
-   "pct_of_calories": 1.03
+   "pct_of_calories": 1.02
   },
   {
    "name": "Generic - Birria Taco",
@@ -161,15 +161,15 @@
    "calories": 2539,
    "protein": 62,
    "times_logged": 11,
-   "pct_of_calories": 0.9
+   "pct_of_calories": 0.89
   },
   {
    "name": "Louisa\u00a0toasted\u00a0ravioli - Toasted\u00a0ravioli",
    "brand": "Louisa\u00a0toasted\u00a0ravioli",
-   "calories": 2295,
-   "protein": 68,
-   "times_logged": 7,
-   "pct_of_calories": 0.81
+   "calories": 2430,
+   "protein": 72,
+   "times_logged": 8,
+   "pct_of_calories": 0.85
   },
   {
    "name": "Banana",
@@ -177,7 +177,7 @@
    "calories": 2233,
    "protein": 18,
    "times_logged": 20,
-   "pct_of_calories": 0.79
+   "pct_of_calories": 0.78
   },
   {
    "name": "chobani - smoothie",
@@ -193,7 +193,7 @@
    "calories": 2166,
    "protein": 192,
    "times_logged": 3,
-   "pct_of_calories": 0.77
+   "pct_of_calories": 0.76
   },
   {
    "name": "Grilled chicken",
@@ -201,7 +201,7 @@
    "calories": 2149,
    "protein": 321,
    "times_logged": 10,
-   "pct_of_calories": 0.76
+   "pct_of_calories": 0.75
   },
   {
    "name": "Pulled Pork Sandwich",
@@ -217,7 +217,7 @@
    "calories": 2121,
    "protein": 94,
    "times_logged": 3,
-   "pct_of_calories": 0.75
+   "pct_of_calories": 0.74
   },
   {
    "name": "Pita bread",
@@ -225,7 +225,15 @@
    "calories": 2116,
    "protein": 70,
    "times_logged": 3,
-   "pct_of_calories": 0.75
+   "pct_of_calories": 0.74
+  },
+  {
+   "name": "Sourdough bread",
+   "brand": "Generic",
+   "calories": 2081,
+   "protein": 57,
+   "times_logged": 14,
+   "pct_of_calories": 0.73
   },
   {
    "name": "Elevation Burger - Double Burger",
@@ -234,14 +242,6 @@
    "protein": 164,
    "times_logged": 4,
    "pct_of_calories": 0.72
-  },
-  {
-   "name": "Sourdough bread",
-   "brand": "Generic",
-   "calories": 1999,
-   "protein": 55,
-   "times_logged": 13,
-   "pct_of_calories": 0.71
   },
   {
    "name": "Kroger bratwurst - Bratwurst",
@@ -257,7 +257,7 @@
    "calories": 1921,
    "protein": 32,
    "times_logged": 6,
-   "pct_of_calories": 0.68
+   "pct_of_calories": 0.67
   },
   {
    "name": "Turkey breast - Smoked",
@@ -321,7 +321,7 @@
    "calories": 1456,
    "protein": 121,
    "times_logged": 2,
-   "pct_of_calories": 0.52
+   "pct_of_calories": 0.51
   },
   {
    "name": "Spaghetti Bolognese",
@@ -345,7 +345,7 @@
    "calories": 1400,
    "protein": 43,
    "times_logged": 1,
-   "pct_of_calories": 0.5
+   "pct_of_calories": 0.49
   },
   {
    "name": "Butter, salted",
@@ -369,7 +369,7 @@
    "calories": 1374,
    "protein": 24,
    "times_logged": 9,
-   "pct_of_calories": 0.49
+   "pct_of_calories": 0.48
   },
   {
    "name": "Ribeye steak, cooked",
@@ -385,7 +385,7 @@
    "calories": 1352,
    "protein": 68,
    "times_logged": 1,
-   "pct_of_calories": 0.48
+   "pct_of_calories": 0.47
   },
   {
    "name": "Chicken And Steak Fajitas",
@@ -393,7 +393,7 @@
    "calories": 1347,
    "protein": 81,
    "times_logged": 1,
-   "pct_of_calories": 0.48
+   "pct_of_calories": 0.47
   },
   {
    "name": "Baked Chicken Thigh - Chicken",
@@ -401,7 +401,7 @@
    "calories": 1266,
    "protein": 128,
    "times_logged": 7,
-   "pct_of_calories": 0.45
+   "pct_of_calories": 0.44
   },
   {
    "name": "Chicken Breast, Baked",
@@ -409,7 +409,7 @@
    "calories": 1179,
    "protein": 221,
    "times_logged": 5,
-   "pct_of_calories": 0.42
+   "pct_of_calories": 0.41
   },
   {
    "name": "Chocolate Chip Cookie",
@@ -497,7 +497,7 @@
    "calories": 1004,
    "protein": 107,
    "times_logged": 1,
-   "pct_of_calories": 0.36
+   "pct_of_calories": 0.35
   },
   {
    "name": "Pecan Roll",
@@ -529,7 +529,7 @@
    "calories": 980,
    "protein": 58,
    "times_logged": 2,
-   "pct_of_calories": 0.35
+   "pct_of_calories": 0.34
   },
   {
    "name": "Chester's - Fried Chicken Sandwich",
@@ -553,7 +553,7 @@
    "calories": 950,
    "protein": 33,
    "times_logged": 3,
-   "pct_of_calories": 0.34
+   "pct_of_calories": 0.33
   },
   {
    "name": "Eurest - Sourdough Turkey Melt",
@@ -633,7 +633,7 @@
    "calories": 810,
    "protein": 40,
    "times_logged": 8,
-   "pct_of_calories": 0.29
+   "pct_of_calories": 0.28
   },
   {
    "name": "Jams - Strawberry Protein PB&J",
@@ -641,7 +641,7 @@
    "calories": 810,
    "protein": 30,
    "times_logged": 2,
-   "pct_of_calories": 0.29
+   "pct_of_calories": 0.28
   },
   {
    "name": "Taco Palenque - Al Pastor Taco on Corn Tortilla",
@@ -649,7 +649,7 @@
    "calories": 810,
    "protein": 45,
    "times_logged": 1,
-   "pct_of_calories": 0.29
+   "pct_of_calories": 0.28
   },
   {
    "name": "The Spaghetti Warehouse - Spaghetti with Tomato Sauce",
@@ -689,7 +689,7 @@
    "calories": 783,
    "protein": 19,
    "times_logged": 1,
-   "pct_of_calories": 0.28
+   "pct_of_calories": 0.27
   },
   {
    "name": "Skirt Steak, Cooked",
@@ -697,7 +697,7 @@
    "calories": 778,
    "protein": 93,
    "times_logged": 1,
-   "pct_of_calories": 0.28
+   "pct_of_calories": 0.27
   },
   {
    "name": "Thai Express - Chicken Pad Thai",
@@ -713,7 +713,7 @@
    "calories": 750,
    "protein": 13,
    "times_logged": 1,
-   "pct_of_calories": 0.27
+   "pct_of_calories": 0.26
   },
   {
    "name": "Potato chips",
@@ -745,7 +745,7 @@
    "calories": 725,
    "protein": 14,
    "times_logged": 2,
-   "pct_of_calories": 0.26
+   "pct_of_calories": 0.25
   },
   {
    "name": "Oreo ice cream",
@@ -753,7 +753,7 @@
    "calories": 724,
    "protein": 12,
    "times_logged": 2,
-   "pct_of_calories": 0.26
+   "pct_of_calories": 0.25
   },
   {
    "name": "Generic - Fried Chicken Wing",
@@ -761,7 +761,7 @@
    "calories": 721,
    "protein": 59,
    "times_logged": 2,
-   "pct_of_calories": 0.26
+   "pct_of_calories": 0.25
   },
   {
    "name": "Chicken Marsala",
@@ -825,7 +825,7 @@
    "calories": 668,
    "protein": 22,
    "times_logged": 3,
-   "pct_of_calories": 0.24
+   "pct_of_calories": 0.23
   },
   {
    "name": "Pistachio Gelato",
@@ -833,7 +833,7 @@
    "calories": 667,
    "protein": 12,
    "times_logged": 2,
-   "pct_of_calories": 0.24
+   "pct_of_calories": 0.23
   },
   {
    "name": "Chicken Burrito",
@@ -908,12 +908,20 @@
    "pct_of_calories": 0.23
   },
   {
+   "name": "Sandi's - French Dip on French Bread With Provolone Cheese",
+   "brand": "Sandi's",
+   "calories": 642,
+   "protein": 59,
+   "times_logged": 1,
+   "pct_of_calories": 0.23
+  },
+  {
    "name": "La Baguette - French Baguette",
    "brand": "La Baguette",
    "calories": 640,
    "protein": 20,
    "times_logged": 2,
-   "pct_of_calories": 0.23
+   "pct_of_calories": 0.22
   },
   {
    "name": "Wegmans - Smoked Chicken Wings",
@@ -1025,7 +1033,7 @@
    "calories": 552,
    "protein": 4,
    "times_logged": 2,
-   "pct_of_calories": 0.2
+   "pct_of_calories": 0.19
   },
   {
    "name": "Fingerling Potatoes - Fingerling Potatoes",
@@ -1065,7 +1073,7 @@
    "calories": 525,
    "protein": 10,
    "times_logged": 10,
-   "pct_of_calories": 0.19
+   "pct_of_calories": 0.18
   },
   {
    "name": "Sidekicks - Mexican Rice",
@@ -1073,7 +1081,7 @@
    "calories": 525,
    "protein": 15,
    "times_logged": 4,
-   "pct_of_calories": 0.19
+   "pct_of_calories": 0.18
   },
   {
    "name": "Tillamook - Waffle Cone Swirl Ice Cream",
@@ -1105,7 +1113,7 @@
    "calories": 498,
    "protein": 39,
    "times_logged": 1,
-   "pct_of_calories": 0.18
+   "pct_of_calories": 0.17
   },
   {
    "name": "Spaghetti, cooked",
@@ -1169,7 +1177,7 @@
    "calories": 440,
    "protein": 16,
    "times_logged": 1,
-   "pct_of_calories": 0.16
+   "pct_of_calories": 0.15
   },
   {
    "name": "Bar Taco - Sesame Ribeye Taco",
@@ -1177,7 +1185,7 @@
    "calories": 440,
    "protein": 28,
    "times_logged": 1,
-   "pct_of_calories": 0.16
+   "pct_of_calories": 0.15
   },
   {
    "name": "Chocolate Doughnut - Chocolate Doughnut",
@@ -1185,6 +1193,14 @@
    "calories": 437,
    "protein": 7,
    "times_logged": 1,
+   "pct_of_calories": 0.15
+  },
+  {
+   "name": "Hamburger bun",
+   "brand": "Generic",
+   "calories": 435,
+   "protein": 15,
+   "times_logged": 3,
    "pct_of_calories": 0.15
   },
   {
@@ -1233,7 +1249,7 @@
    "calories": 410,
    "protein": 7,
    "times_logged": 2,
-   "pct_of_calories": 0.15
+   "pct_of_calories": 0.14
   },
   {
    "name": "Chinese - Beef",
@@ -1425,7 +1441,7 @@
    "calories": 355,
    "protein": 32,
    "times_logged": 1,
-   "pct_of_calories": 0.13
+   "pct_of_calories": 0.12
   },
   {
    "name": "Yum Earth Organics - Organic Sour Littles Soft Chewy Candy",
@@ -1556,6 +1572,14 @@
    "pct_of_calories": 0.11
   },
   {
+   "name": "Onion rings",
+   "brand": "Generic",
+   "calories": 306,
+   "protein": 4,
+   "times_logged": 4,
+   "pct_of_calories": 0.11
+  },
+  {
    "name": "Tasteful Selections Honey Gold Potatoes - Tiny Potatoes",
    "brand": "Tasteful Selections Honey Gold Potatoes",
    "calories": 303,
@@ -1585,7 +1609,7 @@
    "calories": 298,
    "protein": 5,
    "times_logged": 1,
-   "pct_of_calories": 0.11
+   "pct_of_calories": 0.1
   },
   {
    "name": "Peach",
@@ -1601,14 +1625,6 @@
    "calories": 292,
    "protein": 5,
    "times_logged": 1,
-   "pct_of_calories": 0.1
-  },
-  {
-   "name": "Hamburger bun",
-   "brand": "Generic",
-   "calories": 290,
-   "protein": 10,
-   "times_logged": 2,
    "pct_of_calories": 0.1
   },
   {
@@ -1632,6 +1648,14 @@
    "brand": "Ukrop's",
    "calories": 288,
    "protein": 15,
+   "times_logged": 1,
+   "pct_of_calories": 0.1
+  },
+  {
+   "name": "Bacon Egg And Cheese Sandwich",
+   "brand": "Generic",
+   "calories": 287,
+   "protein": 16,
    "times_logged": 1,
    "pct_of_calories": 0.1
   },
@@ -1689,7 +1713,7 @@
    "calories": 270,
    "protein": 15,
    "times_logged": 1,
-   "pct_of_calories": 0.1
+   "pct_of_calories": 0.09
   },
   {
    "name": "Buffalo Wild Wings - Boneless wings, no sauce",
@@ -1697,7 +1721,7 @@
    "calories": 270,
    "protein": 22,
    "times_logged": 1,
-   "pct_of_calories": 0.1
+   "pct_of_calories": 0.09
   },
   {
    "name": "Anush - Apricot Jam",
@@ -1788,6 +1812,14 @@
    "pct_of_calories": 0.08
   },
   {
+   "name": "Meta Cone - Strawberry Ice Cream Cone (Korean)",
+   "brand": "Meta Cone",
+   "calories": 240,
+   "protein": 3,
+   "times_logged": 1,
+   "pct_of_calories": 0.08
+  },
+  {
    "name": "Chicken Enchilada Soup",
    "brand": "Generic",
    "calories": 240,
@@ -1809,14 +1841,6 @@
    "calories": 238,
    "protein": 4,
    "times_logged": 1,
-   "pct_of_calories": 0.08
-  },
-  {
-   "name": "Onion rings",
-   "brand": "Generic",
-   "calories": 236,
-   "protein": 3,
-   "times_logged": 3,
    "pct_of_calories": 0.08
   },
   {
@@ -2009,7 +2033,7 @@
    "calories": 184,
    "protein": 27,
    "times_logged": 1,
-   "pct_of_calories": 0.07
+   "pct_of_calories": 0.06
   },
   {
    "name": "Sauerbraten",
@@ -2017,7 +2041,7 @@
    "calories": 184,
    "protein": 13,
    "times_logged": 1,
-   "pct_of_calories": 0.07
+   "pct_of_calories": 0.06
   },
   {
    "name": "Nutella - Nutella Croissant",
@@ -2116,6 +2140,22 @@
    "pct_of_calories": 0.06
   },
   {
+   "name": "The\u00a0little\u00a0potato\u00a0\u00a0company - Tiny\u00a0potatoes",
+   "brand": "The\u00a0little\u00a0potato\u00a0\u00a0company",
+   "calories": 166,
+   "protein": 5,
+   "times_logged": 3,
+   "pct_of_calories": 0.06
+  },
+  {
+   "name": "keto4karboholics - Blackberry Lemon Popsicles",
+   "brand": "keto4karboholics",
+   "calories": 166,
+   "protein": 14,
+   "times_logged": 2,
+   "pct_of_calories": 0.06
+  },
+  {
    "name": "Safeway RM Sandwich - Pepper Turkey & Pepper Jack Cheese Sandwich",
    "brand": "Safeway RM Sandwich",
    "calories": 165,
@@ -2209,7 +2249,7 @@
    "calories": 156,
    "protein": 8,
    "times_logged": 1,
-   "pct_of_calories": 0.06
+   "pct_of_calories": 0.05
   },
   {
    "name": "Green beans",
@@ -2316,19 +2356,19 @@
    "pct_of_calories": 0.05
   },
   {
-   "name": "The\u00a0little\u00a0potato\u00a0\u00a0company - Tiny\u00a0potatoes",
-   "brand": "The\u00a0little\u00a0potato\u00a0\u00a0company",
-   "calories": 140,
-   "protein": 4,
-   "times_logged": 1,
-   "pct_of_calories": 0.05
-  },
-  {
    "name": "Yellow rice",
    "brand": "Generic",
    "calories": 139,
    "protein": 3,
    "times_logged": 1,
+   "pct_of_calories": 0.05
+  },
+  {
+   "name": "Oatmeal Raisin Cookie",
+   "brand": "Generic",
+   "calories": 138,
+   "protein": 2,
+   "times_logged": 2,
    "pct_of_calories": 0.05
   },
   {
@@ -2369,7 +2409,7 @@
    "calories": 128,
    "protein": 8,
    "times_logged": 2,
-   "pct_of_calories": 0.05
+   "pct_of_calories": 0.04
   },
   {
    "name": "American Light Lager - American Light Lager",
@@ -2377,7 +2417,7 @@
    "calories": 128,
    "protein": 0,
    "times_logged": 1,
-   "pct_of_calories": 0.05
+   "pct_of_calories": 0.04
   },
   {
    "name": "Peanut butter",
@@ -2385,7 +2425,7 @@
    "calories": 128,
    "protein": 4,
    "times_logged": 1,
-   "pct_of_calories": 0.05
+   "pct_of_calories": 0.04
   },
   {
    "name": "Hot Fudge Sundae",
@@ -2572,18 +2612,18 @@
    "pct_of_calories": 0.03
   },
   {
-   "name": "Homemade - Sp\u00e4tzle",
+   "name": "Homemade - Beef Empanda",
    "brand": "Homemade",
-   "calories": 86,
+   "calories": 87,
    "protein": 3,
    "times_logged": 1,
    "pct_of_calories": 0.03
   },
   {
-   "name": "keto4karboholics - Blackberry Lemon Popsicles",
-   "brand": "keto4karboholics",
-   "calories": 83,
-   "protein": 7,
+   "name": "Homemade - Sp\u00e4tzle",
+   "brand": "Homemade",
+   "calories": 86,
+   "protein": 3,
    "times_logged": 1,
    "pct_of_calories": 0.03
   },
@@ -2713,14 +2753,6 @@
    "calories": 70,
    "protein": 2,
    "times_logged": 6,
-   "pct_of_calories": 0.02
-  },
-  {
-   "name": "Oatmeal Raisin Cookie",
-   "brand": "Generic",
-   "calories": 69,
-   "protein": 1,
-   "times_logged": 1,
    "pct_of_calories": 0.02
   },
   {
