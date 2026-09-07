@@ -13583,5 +13583,170 @@
   "protein": 3.0,
   "carbs": 35.0,
   "fat": 8.0
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Breakfast",
+  "name": "Morning\u00a0\u00a0Smoothie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 327.3,
+  "protein": 37.8,
+  "carbs": 32.1,
+  "fat": 6.1
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Breakfast",
+  "name": "Raw Brazil Nut - Brazil Nut",
+  "brand": "Raw Brazil Nut",
+  "servings": 1.0,
+  "calories": 33.0,
+  "protein": 0.7,
+  "carbs": 0.6,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Lunch",
+  "name": "Specially Selected - Sicilian Extra Virgin Olive Oil",
+  "brand": "Specially Selected",
+  "servings": 1.25,
+  "calories": 150.0,
+  "protein": 0.0,
+  "carbs": 0.0,
+  "fat": 17.5
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Lunch",
+  "name": "Scrambled egg",
+  "brand": "Generic",
+  "servings": 3.0,
+  "calories": 272.7,
+  "protein": 18.3,
+  "carbs": 2.9,
+  "fat": 20.1
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Lunch",
+  "name": "Grass Fed Ground Beef",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 157.3,
+  "protein": 23.8,
+  "carbs": 0.0,
+  "fat": 7.0
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Lunch",
+  "name": "Tasteful Selections Honey Gold Potatoes - Tiny Potatoes",
+  "brand": "Tasteful Selections Honey Gold Potatoes",
+  "servings": 0.666700005531311,
+  "calories": 53.3,
+  "protein": 2.0,
+  "carbs": 11.3,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Dinner",
+  "name": "Egg Roll",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 222.5,
+  "protein": 7.4,
+  "carbs": 24.3,
+  "fat": 10.6
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Dinner",
+  "name": "Pork - Pot Sticker",
+  "brand": "Pork",
+  "servings": 2.0,
+  "calories": 158.0,
+  "protein": 6.0,
+  "carbs": 16.0,
+  "fat": 8.0
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Dinner",
+  "name": "Mongolian Beef - Mongolian Beef - No Rice/noodle",
+  "brand": "Mongolian Beef",
+  "servings": 1.0,
+  "calories": 337.0,
+  "protein": 29.0,
+  "carbs": 0.0,
+  "fat": 15.0
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Dinner",
+  "name": "Chinese - Orange Chicken",
+  "brand": "Chinese",
+  "servings": 0.375,
+  "calories": 142.5,
+  "protein": 8.2,
+  "carbs": 4.9,
+  "fat": 7.9
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Dinner",
+  "name": "Vegetable Fried Rice",
+  "brand": "Generic",
+  "servings": 0.5,
+  "calories": 139.4,
+  "protein": 4.0,
+  "carbs": 14.9,
+  "fat": 7.1
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Dinner",
+  "name": "Black Forest - Gummy Bears",
+  "brand": "Black Forest",
+  "servings": 1.0,
+  "calories": 100.0,
+  "protein": 1.0,
+  "carbs": 23.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Snacks",
+  "name": "Chocolate Chip Cookie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 147.6,
+  "protein": 1.5,
+  "carbs": 19.6,
+  "fat": 7.4
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Snacks",
+  "name": "Walmart - Jelly Roll",
+  "brand": "Walmart",
+  "servings": 1.0,
+  "calories": 220.0,
+  "protein": 3.0,
+  "carbs": 43.0,
+  "fat": 4.0
+ },
+ {
+  "date": "2026-09-06",
+  "meal": "Snacks",
+  "name": "Butter Pecan Ice Cream",
+  "brand": "Generic",
+  "servings": 0.5,
+  "calories": 136.6,
+  "protein": 2.3,
+  "carbs": 15.6,
+  "fat": 7.3
  }
 ]
