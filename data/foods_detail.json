@@ -13748,5 +13748,203 @@
   "protein": 2.3,
   "carbs": 15.6,
   "fat": 7.3
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Breakfast",
+  "name": "Scrambled egg",
+  "brand": "Generic",
+  "servings": 5.0,
+  "calories": 454.4,
+  "protein": 30.5,
+  "carbs": 4.9,
+  "fat": 33.5
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Breakfast",
+  "name": "Grass Fed Ground Beef",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 157.3,
+  "protein": 23.8,
+  "carbs": 0.0,
+  "fat": 7.0
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Breakfast",
+  "name": "Tasteful Selections Honey Gold Potatoes - Tiny Potatoes",
+  "brand": "Tasteful Selections Honey Gold Potatoes",
+  "servings": 0.666700005531311,
+  "calories": 53.3,
+  "protein": 2.0,
+  "carbs": 11.3,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Breakfast",
+  "name": "Specially Selected - Sicilian Extra Virgin Olive Oil",
+  "brand": "Specially Selected",
+  "servings": 1.25,
+  "calories": 150.0,
+  "protein": 0.0,
+  "carbs": 0.0,
+  "fat": 17.5
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Breakfast",
+  "name": "Zespri - Golden Kiwifruit",
+  "brand": "Zespri",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 1.0,
+  "carbs": 13.0,
+  "fat": 0.5
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Dinner",
+  "name": "Pork Steak",
+  "brand": "Generic",
+  "servings": 1.25,
+  "calories": 547.1,
+  "protein": 54.0,
+  "carbs": 0.0,
+  "fat": 35.1
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Snacks",
+  "name": "Oatmeal Raisin Cookie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 137.6,
+  "protein": 2.0,
+  "carbs": 21.9,
+  "fat": 5.0
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Snacks",
+  "name": "Salsiccia Toscana - Salsiccia",
+  "brand": "Salsiccia Toscana",
+  "servings": 1.0,
+  "calories": 258.0,
+  "protein": 14.4,
+  "carbs": 0.7,
+  "fat": 21.6
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Snacks",
+  "name": "Sara Lee - Hot Dog Buns",
+  "brand": "Sara Lee",
+  "servings": 1.0,
+  "calories": 80.0,
+  "protein": 4.0,
+  "carbs": 20.0,
+  "fat": 0.5
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Snacks",
+  "name": "Succotash",
+  "brand": "Generic",
+  "servings": 0.375,
+  "calories": 82.8,
+  "protein": 3.7,
+  "carbs": 17.6,
+  "fat": 0.6
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Snacks",
+  "name": "Baked beans",
+  "brand": "Generic",
+  "servings": 0.25,
+  "calories": 34.1,
+  "protein": 1.5,
+  "carbs": 7.0,
+  "fat": 0.3
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Snacks",
+  "name": "Sidekicks - Mexican Rice",
+  "brand": "Sidekicks",
+  "servings": 0.875,
+  "calories": 122.5,
+  "protein": 3.5,
+  "carbs": 25.4,
+  "fat": 0.9
+ },
+ {
+  "date": "2026-09-07",
+  "meal": "Snacks",
+  "name": "Black Forest - Gummy Bears",
+  "brand": "Black Forest",
+  "servings": 1.0,
+  "calories": 100.0,
+  "protein": 1.0,
+  "carbs": 23.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-08",
+  "meal": "Breakfast",
+  "name": "Tasteful Selections Honey Gold Potatoes - Tiny Potatoes",
+  "brand": "Tasteful Selections Honey Gold Potatoes",
+  "servings": 0.666700005531311,
+  "calories": 53.3,
+  "protein": 2.0,
+  "carbs": 11.3,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-08",
+  "meal": "Breakfast",
+  "name": "Grass Fed Ground Beef",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 157.3,
+  "protein": 23.8,
+  "carbs": 0.0,
+  "fat": 7.0
+ },
+ {
+  "date": "2026-09-08",
+  "meal": "Breakfast",
+  "name": "Scrambled egg",
+  "brand": "Generic",
+  "servings": 5.0,
+  "calories": 454.4,
+  "protein": 30.5,
+  "carbs": 4.9,
+  "fat": 33.5
+ },
+ {
+  "date": "2026-09-08",
+  "meal": "Breakfast",
+  "name": "Specially Selected - Sicilian Extra Virgin Olive Oil",
+  "brand": "Specially Selected",
+  "servings": 1.25,
+  "calories": 150.0,
+  "protein": 0.0,
+  "carbs": 0.0,
+  "fat": 17.5
+ },
+ {
+  "date": "2026-09-08",
+  "meal": "Breakfast",
+  "name": "Zespri - Golden Kiwifruit",
+  "brand": "Zespri",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 1.0,
+  "carbs": 13.0,
+  "fat": 0.5
  }
 ]
