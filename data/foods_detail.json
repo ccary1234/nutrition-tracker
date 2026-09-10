@@ -13946,5 +13946,115 @@
   "protein": 1.0,
   "carbs": 13.0,
   "fat": 0.5
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Raw Brazil Nut - Brazil Nut",
+  "brand": "Raw Brazil Nut",
+  "servings": 1.0,
+  "calories": 33.0,
+  "protein": 0.7,
+  "carbs": 0.6,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Dates",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 45.1,
+  "protein": 0.4,
+  "carbs": 12.0,
+  "fat": 0.1
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Black Forest - Gummy Bears",
+  "brand": "Black Forest",
+  "servings": 1.0,
+  "calories": 100.0,
+  "protein": 1.0,
+  "carbs": 23.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Morning\u00a0\u00a0Smoothie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 327.3,
+  "protein": 37.8,
+  "carbs": 32.1,
+  "fat": 6.1
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Scrambled egg",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 181.8,
+  "protein": 12.2,
+  "carbs": 2.0,
+  "fat": 13.4
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Bacon",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 84.0,
+  "protein": 6.0,
+  "carbs": 0.0,
+  "fat": 6.0
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Tasteful Selections Honey Gold Potatoes - Tiny Potatoes",
+  "brand": "Tasteful Selections Honey Gold Potatoes",
+  "servings": 0.5,
+  "calories": 40.0,
+  "protein": 1.5,
+  "carbs": 8.5,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Sourdough Bread",
+  "brand": "Generic",
+  "servings": 0.75,
+  "calories": 82.3,
+  "protein": 2.3,
+  "carbs": 17.2,
+  "fat": 0.4
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Peach Jam",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 55.6,
+  "protein": 0.1,
+  "carbs": 13.8,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-09",
+  "meal": "Breakfast",
+  "name": "Chocolate Chip Cookie",
+  "brand": "Generic",
+  "servings": 0.5,
+  "calories": 73.8,
+  "protein": 0.8,
+  "carbs": 9.8,
+  "fat": 3.7
  }
 ]
