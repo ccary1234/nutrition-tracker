@@ -14056,5 +14056,137 @@
   "protein": 0.8,
   "carbs": 9.8,
   "fat": 3.7
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Breakfast",
+  "name": "Wilcox - Eggs, Hard Boiled",
+  "brand": "Wilcox",
+  "servings": 2.0,
+  "calories": 140.0,
+  "protein": 12.0,
+  "carbs": 2.0,
+  "fat": 9.0
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Breakfast",
+  "name": "Salsiccia Toscana - Salsiccia",
+  "brand": "Salsiccia Toscana",
+  "servings": 1.0,
+  "calories": 258.0,
+  "protein": 14.4,
+  "carbs": 0.7,
+  "fat": 21.6
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Breakfast",
+  "name": "Chocolate Chip Cookie",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 295.2,
+  "protein": 3.1,
+  "carbs": 39.2,
+  "fat": 14.8
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Lunch",
+  "name": "Mongolian Beef - Mongolian Beef - No Rice/noodle",
+  "brand": "Mongolian Beef",
+  "servings": 0.375,
+  "calories": 126.4,
+  "protein": 10.9,
+  "carbs": 0.0,
+  "fat": 5.6
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Lunch",
+  "name": "Chinese - Orange Chicken",
+  "brand": "Chinese",
+  "servings": 0.33329999446868896,
+  "calories": 126.7,
+  "protein": 7.3,
+  "carbs": 4.3,
+  "fat": 7.0
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Lunch",
+  "name": "Sourdough Bread",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 109.8,
+  "protein": 3.0,
+  "carbs": 23.0,
+  "fat": 0.5
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Dinner",
+  "name": "Pork   chop - Pork  chop",
+  "brand": "Pork   chop",
+  "servings": 1.5,
+  "calories": 315.0,
+  "protein": 30.0,
+  "carbs": 0.0,
+  "fat": 19.5
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Dinner",
+  "name": "bacon jam - bacon jam",
+  "brand": "bacon jam",
+  "servings": 1.0,
+  "calories": 35.0,
+  "protein": 0.0,
+  "carbs": 8.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Dinner",
+  "name": "Barebells - Caramel cashew",
+  "brand": "Barebells",
+  "servings": 1.0,
+  "calories": 200.0,
+  "protein": 20.0,
+  "carbs": 18.0,
+  "fat": 8.0
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Dinner",
+  "name": "Baked Potato",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 128.3,
+  "protein": 3.5,
+  "carbs": 29.2,
+  "fat": 0.2
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Dinner",
+  "name": "Fresh Cooked - Asparagus",
+  "brand": "Fresh Cooked",
+  "servings": 1.5,
+  "calories": 37.5,
+  "protein": 3.0,
+  "carbs": 6.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-10",
+  "meal": "Snacks",
+  "name": "Chobani - Mixed Berry Vanilla Greek Yogurt Protein Drink",
+  "brand": "Chobani",
+  "servings": 1.0,
+  "calories": 170.0,
+  "protein": 20.0,
+  "carbs": 14.0,
+  "fat": 3.0
  }
 ]
