@@ -3861,5 +3861,27 @@
   "vitamin_d": 0.0,
   "added_sugars": 0.0,
   "sugar_alcohols": 5.0
+ },
+ {
+  "date": "2026-09-11",
+  "calories": 2297.7,
+  "fat": 91.0,
+  "saturated_fat": 22.0,
+  "polyunsaturated_fat": 12.1,
+  "monounsaturated_fat": 18.6,
+  "trans_fat": 1.0,
+  "cholesterol": 757.8,
+  "sodium": 2966.5,
+  "potassium": 2064.9,
+  "carbs": 193.4,
+  "fiber": 18.1,
+  "sugar": 57.2,
+  "protein": 172.0,
+  "vitamin_a": 924.2,
+  "vitamin_c": 58.1,
+  "calcium": 109.2,
+  "iron": 99.2,
+  "vitamin_d": 3.3,
+  "added_sugars": 0.0
  }
 ]

@@ -14188,5 +14188,115 @@
   "protein": 20.0,
   "carbs": 14.0,
   "fat": 3.0
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Breakfast",
+  "name": "Morning\u00a0\u00a0Smoothie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 327.3,
+  "protein": 37.8,
+  "carbs": 32.1,
+  "fat": 6.1
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Breakfast",
+  "name": "Dates",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 22.6,
+  "protein": 0.2,
+  "carbs": 6.0,
+  "fat": 0.0
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Breakfast",
+  "name": "Chomps - Beef Stick",
+  "brand": "Chomps",
+  "servings": 0.5,
+  "calories": 50.0,
+  "protein": 4.5,
+  "carbs": 0.0,
+  "fat": 3.0
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Lunch",
+  "name": "Meatball Sub",
+  "brand": "Generic",
+  "servings": 1.5,
+  "calories": 655.3,
+  "protein": 40.4,
+  "carbs": 62.1,
+  "fat": 26.6
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Lunch",
+  "name": "Chocolate Chip Cookie",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 295.2,
+  "protein": 3.1,
+  "carbs": 39.2,
+  "fat": 14.8
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Dinner",
+  "name": "Salsiccia Toscana - Salsiccia",
+  "brand": "Salsiccia Toscana",
+  "servings": 1.0,
+  "calories": 258.0,
+  "protein": 14.4,
+  "carbs": 0.7,
+  "fat": 21.6
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Dinner",
+  "name": "Wilcox - Eggs, Hard Boiled",
+  "brand": "Wilcox",
+  "servings": 2.0,
+  "calories": 140.0,
+  "protein": 12.0,
+  "carbs": 2.0,
+  "fat": 9.0
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Dinner",
+  "name": "Chicken Breast",
+  "brand": "Generic",
+  "servings": 1.5,
+  "calories": 272.9,
+  "protein": 51.2,
+  "carbs": 0.0,
+  "fat": 6.0
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Dinner",
+  "name": "Spaghetti Pomodoro",
+  "brand": "Generic",
+  "servings": 0.33329999446868896,
+  "calories": 166.6,
+  "protein": 5.3,
+  "carbs": 28.3,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-09-11",
+  "meal": "Dinner",
+  "name": "Sourdough Bread",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 109.8,
+  "protein": 3.0,
+  "carbs": 23.0,
+  "fat": 0.5
  }
 ]
