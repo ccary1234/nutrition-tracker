@@ -14298,5 +14298,115 @@
   "protein": 3.0,
   "carbs": 23.0,
   "fat": 0.5
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Breakfast",
+  "name": "Morning\u00a0\u00a0Smoothie",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 327.3,
+  "protein": 37.8,
+  "carbs": 32.1,
+  "fat": 6.1
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Breakfast",
+  "name": "Raw Brazil Nut - Brazil Nut",
+  "brand": "Raw Brazil Nut",
+  "servings": 1.0,
+  "calories": 33.0,
+  "protein": 0.7,
+  "carbs": 0.6,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Lunch",
+  "name": "Barebells - Caramel cashew",
+  "brand": "Barebells",
+  "servings": 1.0,
+  "calories": 200.0,
+  "protein": 20.0,
+  "carbs": 18.0,
+  "fat": 8.0
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Lunch",
+  "name": "Chicken Breast",
+  "brand": "Generic",
+  "servings": 1.5,
+  "calories": 272.9,
+  "protein": 51.2,
+  "carbs": 0.0,
+  "fat": 6.0
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Lunch",
+  "name": "Spaghetti Pomodoro",
+  "brand": "Generic",
+  "servings": 0.33329999446868896,
+  "calories": 166.6,
+  "protein": 5.3,
+  "carbs": 28.3,
+  "fat": 3.3
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Lunch",
+  "name": "Chocolate Chip Cookie",
+  "brand": "Generic",
+  "servings": 2.0,
+  "calories": 295.2,
+  "protein": 3.1,
+  "carbs": 39.2,
+  "fat": 14.8
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Lunch",
+  "name": "Green Kiwi",
+  "brand": "Generic",
+  "servings": 1.0,
+  "calories": 48.0,
+  "protein": 0.8,
+  "carbs": 8.2,
+  "fat": 0.3
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Dinner",
+  "name": "Dewey's Pizza - Dewey's Original Pizza, 17 inch",
+  "brand": "Dewey's Pizza",
+  "servings": 2.0,
+  "calories": 460.0,
+  "protein": 22.0,
+  "carbs": 56.0,
+  "fat": 16.0
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Dinner",
+  "name": "Dewey's Pizza - Dewey's Original Pizza, 17 inch",
+  "brand": "Dewey's Pizza",
+  "servings": 2.0,
+  "calories": 460.0,
+  "protein": 22.0,
+  "carbs": 56.0,
+  "fat": 16.0
+ },
+ {
+  "date": "2026-09-12",
+  "meal": "Dinner",
+  "name": "Grilled chicken",
+  "brand": "Generic",
+  "servings": 0.25,
+  "calories": 50.6,
+  "protein": 7.6,
+  "carbs": 0.0,
+  "fat": 2.0
  }
 ]
